@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the TeaTime package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: TeaTime 7\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-31 09:30+0100\n"
+"POT-Creation-Date: 2013-11-01 23:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,31 +17,35 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../src/extension.js:88
+#: ../src/extension.js:75
+msgid "Custom..."
+msgstr ""
+
+#: ../src/extension.js:124
 msgid "TeaTime applet"
 msgstr ""
 
-#: ../src/extension.js:105
+#: ../src/extension.js:141
 msgid "Timer set!"
 msgstr ""
 
-#: ../src/extension.js:105
+#: ../src/extension.js:141
 msgid "s to go"
 msgstr ""
 
-#: ../src/extension.js:120
+#: ../src/extension.js:156
 msgid "Your tea is ready!"
 msgstr ""
 
-#: ../src/extension.js:121
+#: ../src/extension.js:157
 msgid "Drink it, while it is hot!"
 msgstr ""
 
-#: ../src/prefs.js:68
+#: ../src/prefs.js:67
 msgid "Tea"
 msgstr ""
 
-#: ../src/prefs.js:83
+#: ../src/prefs.js:82
 msgid "Steep time"
 msgstr ""
 
@@ -56,6 +60,5 @@ msgid "Tea drawing times list"
 msgstr ""
 
 #: ../src/schemas/org.gnome.shell.extensions.teatime.gschema.xml.in.h:3
-msgid ""
-"A mapping of a teas to their corresponding drawing time in seconds."
+msgid "A mapping of a teas to their corresponding drawing time in seconds."
 msgstr ""
