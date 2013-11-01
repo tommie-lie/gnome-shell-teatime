@@ -8,8 +8,8 @@
     </key>
     <key name="fullscreen-notification" type="b">
       <default>false</default>
-      <summary>Show fullscreen notifications.</summary>
-      <description>Displays a more disrupting, modal fullscreen notification when the timer has elapsed.</description>
+      <_summary>Show fullscreen notifications.</_summary>
+      <_description>Displays a more disrupting, modal fullscreen notification when the timer has elapsed.</_description>
     </key>
   </schema>
 </schemalist>
